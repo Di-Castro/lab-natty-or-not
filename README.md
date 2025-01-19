@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Gastônimus – O Vilão dos Poupançudos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Imagem de personagem criada a partir de uma Inteligência Artificial
+ 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para identificar as caracteristicas possíveis de um vilão para os Poupançudos da CAIXA, em seguida com base na estrutura criada anteriormente, foi gerado uma imagem representativa do personagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a imagem do personagem devidamente criado.
+Link: https://freeimage.host/i/2PDM5I1
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Antes de iniciar um projeto, sugiro pesquisar primeiro qual IA você vai usar e estudar sua utilização, pois nem todas trazem o resultado esperado.
