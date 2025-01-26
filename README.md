@@ -1,7 +1,7 @@
 ## O Uso de Avatares criados por IA para criação de vídeos
 
 ## 📒 Descrição
-Criação de avatares para serem utilizados em produção de contéudos diversos, por meio de apresentações audio visuais.
+Criação de avatares para serem utilizados em produção de contéudos diversos, por meio de apresentações audio visuais
  
 ## 🤖 Tecnologias Utilizadas
 Foi utilizado o ChatGPT e o CapCut
