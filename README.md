@@ -1,10 +1,11 @@
 ## O Uso de Avatares criados por IA para criação de vídeos
 
-##📒 Descrição
+## 📒 Descrição
 Criação de avatares para serem utilizados em produção de contéudos diversos, por meio de apresentações audio visuais.
  
-##🤖 Tecnologias Utilizadas
-Foi utilizado o ChatGPT e o CapCut.
+## 🤖 Tecnologias Utilizadas
+Foi utilizado o ChatGPT e o CapCut
+
 ## 🧐 Processo de Criação
 Utilizei o ChatGPT para realizar as pesquisas e montagem do texto, em seguida utilizei o CapCut para a criação do avatar que irá apresentar um texto sobre o tema "Carros Elétricos vs Carros a Combustão".
 
