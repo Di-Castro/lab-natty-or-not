@@ -1,6 +1,6 @@
-O uso de Avatares para criação de vídeos
+## O Uso de Avatares criados por IA para criação de vídeos
 
-📒 Descrição
+##📒 Descrição
 Criação de avatares para serem utilizados em produção de contéudos diversos, por meio de apresentações audio visuais.
  
 🤖 Tecnologias Utilizadas
