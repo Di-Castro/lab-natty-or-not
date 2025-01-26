@@ -7,7 +7,7 @@ Criação de avatares para serem utilizados em produção de contéudos diversos
 Foi utilizado o ChatGPT e o CapCut
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPT para realizar as pesquisas e montagem do texto, em seguida utilizei o CapCut para a criação do avatar que irá apresentar um texto sobre o tema "Carros Elétricos vs Carros a Combustão".
+Utilizei o ChatGPT para realizar as pesquisas e montagem do texto, em seguida utilizei o CapCut para a criação do avatar que irá apresentar o conteúdo sobre o tema "Carros Elétricos vs Carros a Combustão".
 
 ## 🚀 Resultados
 O resultado foi um vídeo criado a partir de IA, onde o avatar realiza uma apresentação sobre o tema "Carros Elétricos vs Carros a Combustão".
